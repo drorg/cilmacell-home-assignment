@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Assignment</string>
+    <string name="search_hint">Type Capitals name…</string>
+    <string name="action_search">Search</string>
+    <string name="toolbar_title">Capitals</string>
+
+</resources>
